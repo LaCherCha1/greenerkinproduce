@@ -1,7 +1,7 @@
 <template>
 	<div>
 		<div class="mb-md-4 mb-3 mt-4">
-			<i :class="icon" aria-hidden="true"></i>
+			<i class="icon" :class="icon" aria-hidden="true"></i>
 		</div>
 		<div>
 			<h4 class="pb-3">{{title}}</h4>
@@ -29,7 +29,7 @@ export default {
 </script>
 
 <style scoped>
-i {
+.icon {
 	font-size: 40px;
 	color: #4c6248;
 }
