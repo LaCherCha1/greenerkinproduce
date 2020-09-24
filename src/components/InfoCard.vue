@@ -1,6 +1,6 @@
 <template>
 	<div class="card h-100 border-0">
-		<img :src="image" width="300px" class="card-img-top img-fluid" :alt="title" />
+		<img :src="image" width="300px" class="card-img-top img-fluid d-block mx-auto" :alt="title" />
 		<div class="card-body">
 			<h5 class="card-title">{{ title }}</h5>
 			<p class="card-text text-muted">
