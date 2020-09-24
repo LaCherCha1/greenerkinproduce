@@ -32,6 +32,9 @@ export default {
 a:hover img {
   opacity: .5;
 }
+p{
+    font-size: 1rem;
+}
     div.card-img-overlay--{
     position: absolute;
     bottom: 0;

@@ -159,32 +159,32 @@
 					Lastest News
 				</h3>
 				<div class="row m-0">
-					<div class="col-12 col-md-6 p-0">
+					<div class="col-12 col-lg-6 p-0">
 						<NewsCard image="https://picsum.photos/id/305/575/284">
 							Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum, sit.
 						</NewsCard>
 					</div>
-					<div class="col-12 col-md-6 p-0">
+					<div class="col-12 col-lg-6 p-0">
 						<div class="row h-100 w-100 m-0">
-							<div class="col-12 col-md-6 p-0">
+							<div class="col-12 col-lg-6 p-0">
 								<NewsCard image="https://picsum.photos/id/310/305/140">
 									Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum,
 									sit.
 								</NewsCard>
 							</div>
-							<div class="col-12 col-md-6 p-0">
+							<div class="col-12 col-lg-6 p-0">
 								<NewsCard image="https://picsum.photos/id/308/305/140">
 									Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum,
 									sit.
 								</NewsCard>
 							</div>
-							<div class="col-12 col-md-6 p-0">
+							<div class="col-12 col-lg-6 p-0">
 								<NewsCard image="https://picsum.photos/id/307/305/140">
 									Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum,
 									sit.
 								</NewsCard>
 							</div>
-							<div class="col-12 col-md-6 p-0">
+							<div class="col-12 col-lg-6 p-0">
 								<NewsCard image="https://picsum.photos/id/309/305/140">
 									Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum,
 									sit.
