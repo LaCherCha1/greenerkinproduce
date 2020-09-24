@@ -158,7 +158,7 @@
 				<h3 class="title text-center mb-lg-5 mb-md-4 mb-sm-4 mb-3">
 					Lastest News
 				</h3>
-				<div class="row w-100">
+				<div class="row w-100 m-0">
 					<div class="col-12 col-md-6">
 						<NewsCard image="https://picsum.photos/id/305/575/284">
 							Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum, sit.
