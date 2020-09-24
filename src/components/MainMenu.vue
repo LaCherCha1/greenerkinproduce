@@ -5,15 +5,15 @@
       class="navbar-toggler ml-auto"
       type="button"
       data-toggle="collapse"
-      data-target="#navbarSupportedContent"
-      aria-controls="navbarSupportedContent"
+      data-target="#mainMenu"
+      aria-controls="mainMenu"
       aria-expanded="false"
       aria-label="Toggle navigation"
     >
       <span class="navbar-toggler-icon"></span>
     </button>
 
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <div class="collapse navbar-collapse" id="mainMenu">
       <ul class="menu navbar-nav ml-auto">
         <li class="nav-item active">
           <a class="nav-link" href="index.html">
@@ -85,5 +85,20 @@ h1{
     font-weight: 700;
     font-size: 35px;
 }
+@media (max-width: 1199px) { 
+  .collapse{
+    background-color: rgba(255, 255, 255, .95);
+    z-index: 9999;
+  }
+  .collapse ul{
+    text-align: center;
+    float: inherit;
+  }
+  .collapse a {
+    color:black !important;
+    font-size: 1rem;
+    
+  }
+ }
 
 </style>
