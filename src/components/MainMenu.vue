@@ -22,28 +22,28 @@
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="about.html">About Us</a>
+          <a class="nav-link" href="#">About Us</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="fruts.html">Fruts</a>
+          <a class="nav-link" href="#">Fruts</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="fruts.html">Tropical Oil</a>
+          <a class="nav-link" href="#">Tropical Oil</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="service.html">Services</a>
+          <a class="nav-link" href="#">Services</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="service.html">Sustainability</a>
+          <a class="nav-link" href="#">Sustainability</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="service.html">News</a>
+          <a class="nav-link" href="#">News</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="service.html">Galerry</a>
+          <a class="nav-link" href="#">Galerry</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="contact.html">Contact Us</a>
+          <a class="nav-link" href="#">Contact Us</a>
         </li>
         <!-- <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
